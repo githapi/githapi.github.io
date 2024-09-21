@@ -1,2 +1,0 @@
-# githapi.github.io
-website
